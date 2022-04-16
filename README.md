@@ -10,7 +10,7 @@ Plataforma tecnología Fashion Fenix para brindar a los usuarios una opción par
 
 ALCANCES: 
 
-Primer entregable de producto “diseño” 
+PRIMER ENTREGABLE “diseño”  21 DE ABRIL DEL 2022
 
 -Diseño Inicio de sesión y registro. 
 
@@ -24,7 +24,7 @@ Primer entregable de producto “diseño”
 
  
 
-Segundo entregable “funcionalidad” 
+SEGUNDO ENTREGABLE “funcionalidad” 
 
 -Funcionalidad de Inicio de sesión y registro. 
 
@@ -40,7 +40,7 @@ Segundo entregable “funcionalidad”
 
  
 
-Tercer entregable “funcionalidad” 
+TERCER ENTREGABLE “funcionalidad” 
 
 -Funcionalidad barra de búsqueda. 
 
