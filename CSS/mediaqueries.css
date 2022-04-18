@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+    .navbar {
+        background-color: #c5067c;
+        height: 80px;
+        box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, .42);
+        align-items: center;
+
+    }
+
+    .navbar  .menu {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        background-color: #c5067c;
+        height: 50vh;
+        left: -1em;
+    }
+
+    .menu li{
+        margin-top: 3em;
+    }
+
+    .navbar .menu-bar{
+        display: none;
+        font-size: 2em;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+}

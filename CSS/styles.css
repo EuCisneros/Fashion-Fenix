@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap');
+@import 'mediaqueries.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/vec.png);
+}
+
+.navbar {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    padding: 30PX;
+}
+
+.navbar .brand{
+    color: #1e437b;
+
+}
+.navbar .menu {
+    grid-column: 6 / 9;
+    display: flex;
+}
+
+
+.menu li{
+    list-style: none;
+}
+
+.menu li a{
+    text-decoration: none;
+    margin-right: 3em;
+    font-size: 1.5em;
+    color: #1e437b;
+    font-weight: 300;
+    padding: 10px 20px;
+}
+
+.menu li a:hover{
+    background-color: #1e437b;
+    transform: all .5s;
+    color: #00a88e;
+}
+
+.menu-bar{
+    display: none;
+}
